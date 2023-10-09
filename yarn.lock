@@ -3554,7 +3554,7 @@ __metadata:
     vitest: "npm:~0.33.0"
     vitest-environment-miniflare: "npm:^2.14.0"
     web-auth-library: "npm:^1.0.3"
-    zod: "npm:^3.22.1"
+    zod: "npm:^3.22.3"
   languageName: unknown
   linkType: soft
 
@@ -8743,10 +8743,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zod@npm:^3.20.6, zod@npm:^3.22.1":
+"zod@npm:^3.20.6":
   version: 3.22.1
   resolution: "zod@npm:3.22.1"
   checksum: f88c23901da740dac3e38f346cb0a001d81bb2172672f65d9e3e69bd17582e41bc1495bc5c4cc226df6bff3280a5a528b661698edc39c0943b0f1c48ea1e8455
+  languageName: node
+  linkType: hard
+
+"zod@npm:^3.22.3":
+  version: 3.22.4
+  resolution: "zod@npm:3.22.4"
+  checksum: 73622ca36a916f785cf528fe612a884b3e0f183dbe6b33365a7d0fc92abdbedf7804c5e2bd8df0a278e1472106d46674281397a3dd800fa9031dc3429758c6ac
   languageName: node
   linkType: hard
 
